@@ -10,7 +10,7 @@ Here are some of the languages, frameworks, and tools that I've learned or worke
 - GitHub
 - and React
 
-i do enjoying coding in my free time in CODEWAR and this is my current: [![Codewars Badge](https://www.codewars.com/users/Bassil/badges/large)](https://www.codewars.com/users/Bassil)
+i do enjoying coding in my free time in CODEWARS and this is my current: [![Codewars Badge](https://www.codewars.com/users/Bassil/badges/large)](https://www.codewars.com/users/Bassil)
 
 and also you can see in the following link what badge i have earned from DCI through out my course: https://eu.badgr.com/public/assertions/mSYsKP10SbWNtnkD2aEg4g
 have fun visiting my portfolio :)
