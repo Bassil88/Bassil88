@@ -13,8 +13,8 @@ Here are some of the languages, frameworks, and tools that I've learned or worke
 i do enjoying coding in my free time in CODEWARS and this is my current: [![Codewars Badge](https://www.codewars.com/users/Bassil/badges/large)](https://www.codewars.com/users/Bassil)
 
 and also you can see in the following link what badges i have earned from DCI through out my course:
-https://eu.badgr.com/public/assertions/Ll5Hq7W0Q9ieuDqpfRDaMQ
-https://eu.badgr.com/public/assertions/mSYsKP10SbWNtnkD2aEg4g
+- https://eu.badgr.com/public/assertions/Ll5Hq7W0Q9ieuDqpfRDaMQ
+- https://eu.badgr.com/public/assertions/mSYsKP10SbWNtnkD2aEg4g
 have fun visiting my portfolio :)
 
 If you'd like to get in touch with me, you can reach me at here.
