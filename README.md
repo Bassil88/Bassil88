@@ -12,7 +12,7 @@ and React
 
 i do enjoying coding in my free time in CODEWAR and this is my current: [![Codewars Badge](https://www.codewars.com/users/Bassil/badges/large)](https://www.codewars.com/users/Bassil)
 
-and also you can see in the following link what badges i have earned from DCI: https://eu.badgr.com/public/assertions/mSYsKP10SbWNtnkD2aEg4g
+and also you can see in the following link what badge i have earned from DCI through out my course: https://eu.badgr.com/public/assertions/mSYsKP10SbWNtnkD2aEg4g
 have fun visiting my portfolio :)
 
 If you'd like to get in touch with me, you can reach me at here.
