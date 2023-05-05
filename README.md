@@ -1,8 +1,26 @@
 ### Hi there 👋
+Hi there, I'm Bassil 👋
+I'm a web developer currently studying at DCI (Digital Career Institute) in Germany. My studies will be completed in October 2023.
 
-[![Codewars Badge](https://www.codewars.com/users/Bassil/badges/large)](https://www.codewars.com/users/Bassil)
+Skills
+Here are some of the languages, frameworks, and tools that I've learned or worked with during my web development course:
 
-https://eu.badgr.com/public/assertions/mSYsKP10SbWNtnkD2aEg4g
+HTML/CSS/SASS
+JavaScript
+GitHub
+and React
+
+i do enjoying coding in my free time in CODEWAR and this is my current: [![Codewars Badge](https://www.codewars.com/users/Bassil/badges/large)](https://www.codewars.com/users/Bassil)
+
+and also you can see in the following link what badges i have earned from DCI: https://eu.badgr.com/public/assertions/mSYsKP10SbWNtnkD2aEg4g
+have fun visiting my portfolio :)
+
+If you'd like to get in touch with me, you can reach me at here.
+
+Thanks for visiting my profile!
+
+
+
 
 
 <!--
