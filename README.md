@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Codewars Badge](https://www.codewars.com/users/Bassil/badges/large)](https://www.codewars.com/users/Bassil)
+[![Codewars Badge](https://www.codewars.com/users/Bassil/badges/small)](https://www.codewars.com/users/Bassil)
+[![Codewars Badge](https://www.codewars.com/users/Bassil/badges/micro)](https://www.codewars.com/users/Bassil)
+
 <!--
 **Bassil88/Bassil88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
