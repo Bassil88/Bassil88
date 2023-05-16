@@ -17,7 +17,7 @@ and also you can see in the following link what badges i have earned from DCI th
 - https://eu.badgr.com/public/assertions/Ll5Hq7W0Q9ieuDqpfRDaMQ
 - https://eu.badgr.com/public/assertions/mSYsKP10SbWNtnkD2aEg4g
 
-
+ 
 have fun visiting my portfolio :)
 - https://bassil88.github.io/Bassil-Edelbi-s-Portfolio/
 
