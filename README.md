@@ -32,9 +32,6 @@ If you'd like to get in touch with me, you can reach me at here.
 Thanks for visiting my profile!
 
 
-
-
-
 <!--
 **Bassil88/Bassil88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
