@@ -8,10 +8,13 @@
 Skills
 Here are some of the languages, frameworks, and tools that I've learned or worked with during my web development course:
 
-- HTML/CSS/SASS
+- HTML
+- CSS, SASS/SCSS
+- BootStrap/Tailwind
 - JavaScript
-- GitHub
-- and React
+- React
+- Git/ Github
+- Linux/Windows/Mac
 
 i do enjoying coding in my free time in CODEWARS and this is my current: 
 - [![Codewars Badge](https://www.codewars.com/users/Bassil/badges/large)](https://www.codewars.com/users/Bassil)
