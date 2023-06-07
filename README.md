@@ -32,6 +32,7 @@ have fun visiting my portfolio :)
 - https://bassil88.github.io/Bassil-Edelbi-s-Portfolio/
 
 If you'd like to get in touch with me, you can reach me at here.
+or in LinkedIn with the following https://www.linkedin.com/in/bassil-edelbi-7b31a7277/
 
 Thanks for visiting my profile!
 
