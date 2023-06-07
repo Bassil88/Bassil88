@@ -28,11 +28,10 @@ and also you can see in the following link what badges i have earned from DCI th
 - https://eu.badgr.com/public/assertions/mSYsKP10SbWNtnkD2aEg4g
 
  
-have fun visiting my portfolio :)
-- https://bassil88.github.io/Bassil-Edelbi-s-Portfolio/
+have fun visiting my portfolio [here](https://bassil88.github.io/Bassil-Edelbi-s-Portfolio/).
 
 If you'd like to get in touch with me, you can reach me at here.
-or in LinkedIn with the following https://www.linkedin.com/in/bassil-edelbi-7b31a7277/
+or with LinkedIn [here](https://www.linkedin.com/in/bassil-edelbi-7b31a7277/). 
 
 Thanks for visiting my profile!
 
