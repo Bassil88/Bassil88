@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Bassil 
-# I'm a web developer currently studying at DCI (Digital Career Institute) in Germany. My studies will be completed in October 2023.
+# I'm a Full-Stack Web Developer currently studying at DCI (Digital Career Institute) in Germany. My studies will be completed in October 2023.
 
 ### about me? hmm.. well:
 I have a strong passion for challenges, which is why I enjoy doing parkour in my free time. Parkour is a demanding and difficult sport, but whenever I master a new movement or flip, it gives me an incredible feeling of accomplishment. Even during challenging moments when I push myself beyond my limits, I experience a rush of excitement and adrenaline, knowing that I'm about to achieve a new goal.
