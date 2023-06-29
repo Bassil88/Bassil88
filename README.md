@@ -12,13 +12,15 @@ My goal is to continue challenging myself both in parkour and coding, striving t
 Skills
 Here are some of the languages, frameworks, and tools that I've learned or worked with during my web development course:
 
-- HTML
-- CSS, SASS/SCSS
-- BootStrap/Tailwind
-- JavaScript
-- React
-- Git/ Github
-- Linux/Windows/Mac
+- Web Development: HTML, CSS, JavaScript, React, Express.js, Node.js
+- Server-side development
+- Version Control: Git, GitHub
+- Database: MongoDB, NoSQL
+- DevOps and CI/CD
+- RESTful APIs
+- Front-End Frameworks: Bootstrap, Tailwind
+- Operating Systems: Linux, Windows, Mac
+
 
 i do enjoying coding in my free time in CODEWARS and this is my current: 
 - [![Codewars Badge](https://www.codewars.com/users/Bassil/badges/large)](https://www.codewars.com/users/Bassil)
