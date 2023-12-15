@@ -67,8 +67,11 @@ My goal is to continue challenging myself both in parkour and coding, striving t
 
 
 ------------------------------------
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassil88&show_icons=true&locale=en&layout=compact" alt="bassil88" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassil88&show_icons=true&locale=en" alt="bassil88" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassil88&" alt="bassil88" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassil88&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bassil88" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassil88&show_icons=true&locale=en&theme=tokyonight" alt="bassil88" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassil88&&theme=tokyonight" alt="bassil88" /></p>
+
