@@ -28,7 +28,14 @@
 
 - ### about me? hmm.. well:
 
-I have a strong passion for challenges, which is why I enjoy doing parkour in my free time. Parkour is a demanding and difficult sport, but whenever I master a new movement or flip, it gives me an incredible feeling of accomplishment. Even during challenging moments when I push myself beyond my limits, I experience a rush of excitement and adrenaline, knowing that I'm about to achieve a new goal. Interestingly, I've found a similar sense of satisfaction in coding. When I work with JavaScript or React and find the best and most efficient way to bring my ideas to life, seeing my code work and achieve the desired outcome makes me incredibly happy. It's like reaching a new milestone in my life and experiencing that same indescribable feeling of accomplishment. My goal is to continue challenging myself both in parkour and coding, striving to master new movements in parkour and becoming proficient in advanced coding techniques. I believe that through constant growth and pushing my boundaries, I will achieve even greater goals and make meaningful contributions in both personal and professional domains.
+I’m a Frontend Developer with a deep passion for problem-solving, creativity, and continuous improvement.
+Just like in parkour a sport I practice in my free time I thrive on challenges that push my limits and require focus, precision, and persistence. Every new movement I master in parkour mirrors the excitement I feel when writing clean, efficient code that brings ideas to life.
+
+Working with JavaScript, React, and modern frontend tools, I enjoy transforming complex problems into elegant, responsive, and user-friendly solutions. I’m motivated by the process of building from concept to code to a finished product that truly works and looks great on every device.
+
+My goal is to keep growing as a developer, mastering advanced techniques, and contributing to innovative projects that make a real impact.
+Through continuous learning and collaboration, I aim to deliver high-quality, maintainable, and scalable front-end solutions.
+
 
 * 🌍  I'm based in Germany
 * 🖥️  See my projects in portfolio at [MyPortfolio](http://bassil-edelbi.netlify.app/)
