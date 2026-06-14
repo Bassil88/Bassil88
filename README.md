@@ -135,17 +135,6 @@ Activities include:
 </p>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bassil88&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bassil88&theme=tokyonight" />
-</p>
-
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Bassil88/my-react-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bassil88&repo=my-react-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/Bassil88/sport-tracker-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bassil88&repo=sport-tracker-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
