@@ -139,8 +139,8 @@ Activities include:
 
 <div width="100%" align="center">
   <a href="https://github.com/Bassil88/aura-coffee-demo" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bassil88&repo=aura-coffee-demo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" />
-  </a>
+<img align="left" width="45%"
+src="https://github-readme-stats.vercel.app/api/pin/?username=Bassil88&repo=aura-coffee-demo&cache_seconds=1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" />
 
   <a href="https://github.com/Bassil88/my-react-portfolio" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bassil88&repo=my-react-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" />
