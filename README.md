@@ -19,20 +19,21 @@
 
 ## About Me:
 
-I'm a Frontend Software Developer based in Germany with professional experience building and maintaining production web applications using Angular, TypeScript, .NET and modern web technologies.
+I'm a Frontend Software Developer based in Germany with professional experience developing and maintaining modern browser-based web applications using Angular, TypeScript, .NET and related web technologies.
 
 I enjoy creating responsive, data-driven user interfaces that combine clean architecture, performance and usability.
 
 My passion for software development began while improving my own e-commerce platform and has since grown into a professional career focused on modern frontend development.
 
-I recently worked as a Frontend Software Developer at DrengrTec IT Solutions, where I contributed to production web applications built with Angular, .NET and REST APIs. My responsibilities included feature development, framework upgrades, authentication, debugging and continuous application improvement.
+I enjoy building browser-based applications that solve real business problems while providing intuitive and maintainable user experiences.
+
+I worked as a Frontend Software Developer at DrengrTec IT Solutions, where I contributed to production web applications built with Angular, .NET and REST APIs. My responsibilities included feature development, framework upgrades, authentication, debugging and continuous application improvement.
 
 I use AI-assisted development tools such as ChatGPT, GitHub Copilot and Gemini to accelerate research, review implementations and validate solutions while maintaining full responsibility for architecture, code quality and final decisions.
 
-I enjoy solving complex technical challenges, continuously learning new technologies, and building software that delivers measurable value to users and businesses.
 
 
-## What I Enjoy Building
+## 🚀 What I Enjoy Building
 
 - Responsive web applications
 
@@ -61,12 +62,12 @@ I enjoy solving complex technical challenges, continuously learning new technolo
 
 Frontend Software Developer
 
+- Develop Angular and .NET applications integrating REST APIs and PostgreSQL in production environments
 - Develop and maintain production web applications
 - Implement authentication and authorization workflows
-- Debug and resolve complex production issues
 - Upgrade and modernize application frameworks and dependencies
+- Debug and resolve complex production issues
 - Contribute to application stability and maintainability
-- Work with Angular, .NET, REST APIs, PostgreSQL, and modern web technologies
 
 
 
@@ -105,10 +106,34 @@ Highlights
 - Component-based architecture
 
 ### 🎮 Simon Game
-Interactive browser-based memory game built using JavaScript, jQuery, and event-driven programming.
+
+Tech Stack
+
+- JavaScript
+- jQuery
+- HTML
+- CSS
+
+Highlights
+
+- Event-driven programming
+- Interactive gameplay
+- DOM manipulation
+- Responsive browser experience
 
 ### 🐶 TinDog
-Responsive Bootstrap landing page demonstrating modern frontend design and component-based layout techniques.
+Tech Stack
+
+- HTML
+- CSS
+- Bootstrap
+
+Highlights
+
+- Responsive layout
+- Bootstrap components
+- Mobile-first design
+- Clean UI
 
 
 
@@ -162,9 +187,8 @@ Responsive Bootstrap landing page demonstrating modern frontend design and compo
 
 
 
-### Connect With Me
+## 🤝 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bassil-edelbi-7b31a7277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bassil-edelbi-7b31a7277/" height="30" width="40" /></a>
 </p>
