@@ -1,11 +1,13 @@
 
 
 <a align="left"><h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Bassil </h1> </a>
-<h3 align="center">Full Stack Software Developer | .NET • Angular • AI-Assisted Development</h3>
+<h3 align="center">Frontend Software Developer | Angular • React • TypeScript • .NET</h3>
 
 🌍 Germany
 
-💼 Full Stack Software Developer
+💼 Frontend Software Developer
+
+⚡ Angular | React | TypeScript | .NET
 
 🖥️ Portfolio: https://bassil-edelbi.netlify.app
 
@@ -17,14 +19,39 @@
 
 ## About Me:
 
-I'm a Full Stack Software Developer based in Germany with professional experience building and maintaining production web applications using .NET, Angular, TypeScript, JavaScript, and modern web technologies.
+I'm a Frontend Software Developer based in Germany with professional experience building and maintaining production web applications using Angular, TypeScript, .NET and modern web technologies.
 
-Currently, I work on business-critical applications where I contribute to feature development, system maintenance, debugging, authentication workflows, framework upgrades, and performance improvements.
+I enjoy creating responsive, data-driven user interfaces that combine clean architecture, performance and usability.
 
-Alongside traditional software development, I actively leverage AI-assisted development tools such as ChatGPT, Gemini, GitHub Copilot, and OpenAI Codex to accelerate development, validate solutions, review code, and improve productivity while maintaining high quality standards.
+My passion for software development began while improving my own e-commerce platform and has since grown into a professional career focused on modern frontend development.
+
+I recently worked as a Frontend Software Developer at DrengrTec IT Solutions, where I contributed to production web applications built with Angular, .NET and REST APIs. My responsibilities included feature development, framework upgrades, authentication, debugging and continuous application improvement.
+
+I use AI-assisted development tools such as ChatGPT, GitHub Copilot and Gemini to accelerate research, review implementations and validate solutions while maintaining full responsibility for architecture, code quality and final decisions.
 
 I enjoy solving complex technical challenges, continuously learning new technologies, and building software that delivers measurable value to users and businesses.
 
+
+## What I Enjoy Building
+
+- Responsive web applications
+
+- Browser-based user interfaces
+
+- REST API integrations
+
+- Modern frontend architectures
+
+- Maintainable and scalable code
+
+
+## 🎯 Current Focus
+
+- Building modern Angular applications
+- TypeScript & scalable frontend architecture
+- REST API integration
+- Responsive and performant user interfaces
+- Continuous learning and clean code practices
 
 
 
@@ -32,7 +59,7 @@ I enjoy solving complex technical challenges, continuously learning new technolo
 
 ### DrengerTec IT Solutions
 
-Full Stack Software Developer
+Frontend Software Developer
 
 - Develop and maintain production web applications
 - Implement authentication and authorization workflows
@@ -46,10 +73,36 @@ Full Stack Software Developer
 ## 🌟 Featured Projects
 
 ### 🛒 Multilingual E-Commerce Platform
-Production-style multilingual e-commerce platform built with Next.js, TypeScript, localization, shopping cart workflows, SEO optimization, and Vercel deployment.
+Tech Stack
+
+- Next.js
+- TypeScript
+- Localization
+- Stripe
+- Tailwind
+
+Highlights
+
+- Multi-language support
+- SEO optimized
+- Shopping cart
+- Authentication
+- Responsive UI
 
 ### 💪 Fitness Tracker Application
-React-based fitness tracking application integrating external APIs, workout management, and responsive UI design.
+Tech Stack
+
+- React
+- JavaScript
+- REST API
+- CSS
+
+Highlights
+
+- Workout tracking
+- API integration
+- Responsive UI
+- Component-based architecture
 
 ### 🎮 Simon Game
 Interactive browser-based memory game built using JavaScript, jQuery, and event-driven programming.
@@ -60,25 +113,7 @@ Responsive Bootstrap landing page demonstrating modern frontend design and compo
 
 
 
-## 🤖 AI Evaluation & Agentic Development
 
-Experience working with AI-assisted development workflows using:
-
-- ChatGPT
-- Gemini
-- GitHub Copilot
-- OpenAI Codex
-
-Activities include:
-
-- Prompt Engineering
-- AI Response Evaluation
-- Model Output Assessment
-- Human-in-the-Loop Validation
-- Agentic Coding Workflows
-- Fact Verification
-- Solution Verification
-- Debugging Generated Code
 
 ### Skills
 <h3 align="center">Languages and Tools:</h3>
@@ -127,7 +162,7 @@ Activities include:
 
 
 
-### Socials
+### Connect With Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -168,7 +203,15 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=Bassil88&repo=aura
 ------------------------------------
 ## 🤝 Open To
 
-- Full Stack Software Development Opportunities
-- AI Evaluation & AI Training Projects
-- Freelance Development Work
-- Open Source Collaboration
+✅ Frontend Development
+
+✅ Angular
+
+✅ React
+
+✅ Modern Web Applications
+
+✅ Open Source Collaboration
+
+✅ Full Stack Development (.NET)
+
