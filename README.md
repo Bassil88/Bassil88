@@ -73,7 +73,7 @@ Frontend Software Developer
 
 ## 🌟 Featured Projects
 
-### 🛒 Multilingual E-Commerce Platform
+### 🛒 Aura Coffee Demo
 Tech Stack
 
 - Next.js
@@ -89,7 +89,29 @@ Highlights
 - Shopping cart
 - Authentication
 - Responsive UI
+------------------------------------
+### 🌐 Personal Portfolio
 
+Tech Stack
+
+- React
+- Vite
+- React Router
+- SCSS
+- Bootstrap
+- Font Awesome
+
+Highlights
+
+- Professional developer portfolio
+- Responsive modern UI
+- Component-based architecture
+- Interactive project showcase
+- Technology and skills presentation
+- Mobile-first design
+- Optimized user experience
+- Personal branding
+------------------------------------
 ### 💪 Fitness Tracker Application
 Tech Stack
 
@@ -104,8 +126,8 @@ Highlights
 - API integration
 - Responsive UI
 - Component-based architecture
-
-### 🎮 Simon Game
+------------------------------------
+### 🎮 Simon Memory Game
 
 Tech Stack
 
@@ -120,7 +142,7 @@ Highlights
 - Interactive gameplay
 - DOM manipulation
 - Responsive browser experience
-
+------------------------------------
 ### 🐶 TinDog
 Tech Stack
 
@@ -190,7 +212,7 @@ Highlights
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/bassil-edelbi-7b31a7277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bassil-edelbi-7b31a7277/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/b-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bassil-edelbi-7b31a7277/" height="30" width="40" /></a>
 </p>
 
 
